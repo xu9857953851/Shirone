@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 	site: "https://shirone.mysqil.com/",
 	base: "/",
 	title: "Shirone",
-	subtitle: "A Material 3 anime blog",
+	subtitle: "一个基于 Material 3 的二次元风格博客",
 	// 电脑端顶栏标题与导航内容区域："left" 左对齐，"center" 居中。
 	topAppBar: {
 		contentAlign: "center",
@@ -72,11 +72,11 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 			enable: true,
 			title: "Shirone",
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"虽然没有特别的事，但有你在就足够了",
+				"你依然是我生命里的光",
+				"你不知不觉间成了我每个平常的日子",
+				"和你说说话，普通的一天也会变得更愉快",
+				"平平无奇的一天，却也是格外美好的一天",
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。
